@@ -7,65 +7,65 @@
 			"name": "Purple Prison",
 			"reason": "p2w",
 			"knownAddresses": [
-				".*(\.)?purple\.wtf(.*)",
-				".*(\.)?purpleprison\.net(.*)",
-				".*(\.)?moxmc\.net(.*)",
-				".*(\.)?purpleprison\.co(.*)",
-				".*(\.)?prisonfun\.com(.*)",
-				".*(\.)?purpleprison\.org(.*)",
-				".*(\.)?minecraftsexserver\.club(.*)",
-				".*(\.)?moxmc\.com(.*)",
-				".*(\.)?purpleore\.com(.*)",
-				".*(\.)?purpleprison\.xyz(.*)"
+				".*(\\.)?purple\\.wtf(.*)",
+				".*(\\.)?purpleprison\\.net(.*)",
+				".*(\\.)?moxmc\\.net(.*)",
+				".*(\\.)?purpleprison\\.co(.*)",
+				".*(\\.)?prisonfun\\.com(.*)",
+				".*(\\.)?purpleprison\\.org(.*)",
+				".*(\\.)?minecraftsexserver\\.club(.*)",
+				".*(\\.)?moxmc\\.com(.*)",
+				".*(\\.)?purpleore\\.com(.*)",
+				".*(\\.)?purpleprison\\.xyz(.*)"
 			]
 		},
 		{
 			"name": "LoverCraft",
 			"reason": "p2w",
 			"knownAddresses": [
-				".*(\.)?loverfella\.com(.*)"
+				".*(\\.)?loverfella\\.com(.*)"
 			]
 		},
 		{
 			"name": "Glorious Realms",
 			"reason": "p2w",
 			"knownAddresses": [
-				".*(\.)?gloriousrealms\.com(.*)"
+				".*(\\.)?gloriousrealms\\.com(.*)"
 			]
 		},
 		{
 			"name": "Project Eden",
 			"reason": "p2w",
 			"knownAddresses": [
-				".*(\.)?bnn\.gg(.*)"
+				".*(\\.)?bnn\\.gg(.*)"
 			]
 		},
 		{
 			"name": "Wild Prison",
 			"reason": "p2w",
 			"knownAddresses": [
-				".*(\.)?wildprison\.net(.*)"
+				".*(\\.)?wildprison\\.net(.*)"
 			]
 		},
 		{
 			"name": "DatBlock",
 			"reason": "p2w",
 			"knownAddresses": [
-				".*(\.)?datblock\.com(.*)"
+				".*(\\.)?datblock\\.com(.*)"
 			]
 		},
 		{
 			"name": "MineTribes",
 			"reason": "p2w",
 			"knownAddresses": [
-				".*(\.)?minetribes\.net(.*)"
+				".*(\\.)?minetribes\\.net(.*)"
 			]
 		},
 		{
 			"name": "Lit Raids",
 			"reason": "p2w",
 			"knownAddresses": [
-				".*(\.)?litraids\.com(.*)"
+				".*(\\.)?litraids\\.com(.*)"
 			]
 		}
 	]
