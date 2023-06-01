@@ -73,7 +73,8 @@
 			"name": "Pika Network"
 			"reason": "cc",
 			"knownAddresses": [
-				".*(\\.)?pika-network\\.net(.*)"
+				".*(\\.)?pika-network\\.net(.*)",
+				".*(\\.)?pika\\.host(.*)"
 			]
 		}
 	]
