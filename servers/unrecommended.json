@@ -1,6 +1,7 @@
 {
 	"reasons": {
-		"p2w": "This server is known to have P2W (pay-to-win) mechanics. This makes an unsatisfactory experience for most players: the fact of having a paywall infront of the fair experience that we at CheatBreakerX and many others want."
+		"p2w": "This server is known to have P2W (pay-to-win) mechanics. This makes an unsatisfactory experience for most players: the fact of having a paywall infront of the fair experience that we at CheatBreakerX and many others want.",
+		"cc": "This server is a cracked and cloned version of another server. Joining this server will most likely not give the original creators of the experience the credit they deserve; it is recommended you try to find the original server."
 	},
 	"servers": [
 		{
@@ -66,6 +67,13 @@
 			"reason": "p2w",
 			"knownAddresses": [
 				".*(\\.)?litraids\\.com(.*)"
+			]
+		},
+		{
+			"name": "Pika Network"
+			"reason": "cc",
+			"knownAddresses": [
+				".*(\\.)?pika-network\\.net(.*)"
 			]
 		}
 	]
