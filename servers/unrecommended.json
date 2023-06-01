@@ -70,7 +70,7 @@
 			]
 		},
 		{
-			"name": "Pika Network"
+			"name": "Pika Network",
 			"reason": "cc",
 			"knownAddresses": [
 				".*(\\.)?pika-network\\.net(.*)",
